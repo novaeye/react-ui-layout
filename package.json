@@ -1,0 +1,17 @@
+{
+  "name": "react-ui-layout",
+  "version": "1.0.0",
+  "description": "React ui layout",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ttungbmt/leaflet-boundary-canvas"
+  },
+  "keywords": [
+    "ui-layout",
+    "react"
+  ],
+  "author": "Truong Thanh TUng",
+  "license": "MIT License",
+  "readmeFilename": "README.md"
+}
