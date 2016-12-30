@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ttungbmt/layout.git"
+    "url": "git://github.com/ttungbmt/react-ui-layout.git"
   },
   "keywords": [
     "ui-layout",
